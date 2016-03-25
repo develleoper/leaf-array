@@ -1,0 +1,27 @@
+{
+  "name": "leaf-array",
+  "version": "0.0.1",
+  "description": "A simple utility function for interleaving a JavaScript Array.",
+  "main": "index.js",
+  "author": {
+    "name": "Danielle Burgess"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develleoper/leaf-array.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "array",
+    "util",
+    "utility"
+  ],
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/develleoper/leaf-array/issues"
+  },
+  "homepage": "https://github.com/develleoper/leaf-array#readme",
+}
